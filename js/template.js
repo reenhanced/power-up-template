@@ -1,6 +1,6 @@
 /* global TrelloPowerUp */
 
-var getBadges = function(t){
+var getIdBadge = function(t){
   return t.card('idShort')
   .get('idShort')
   .then(function(idShort){
