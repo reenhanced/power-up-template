@@ -1,7 +1,7 @@
 {
   "name": "Card Numbers by Reenhanced",
   "description": "Card Numbers makes it easier for you to talk with your team about the cards on your boards.",
-  "details": "The Card Numbers by Reenhanced Power-Ups gives every card a unique number that you can use to reference the card more easily in conversation. Card numbers are displayed as a badge on the front of the card as well as a badge on the back of the card. [https://reenhanced.github.io/trello-card-numbers/screenshot.png] Built by [(http://www.reenhanced.com)reenhanced]",
+  "details": "The Card Numbers by Reenhanced Power-Up gives every card a unique number that you can use to reference the card more easily in conversation. Card numbers are displayed as a badge on the front of the card as well as a badge on the back of the card. [https://reenhanced.github.io/trello-card-numbers/screenshot.png] Built by [(http://www.reenhanced.com)reenhanced]",
   "icon": {
     "url": "./images/logo.png"
   },
