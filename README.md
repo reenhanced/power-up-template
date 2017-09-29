@@ -10,7 +10,7 @@ the prompt on https://trello.com/power-ups/admin
 ## Features
 
 ### Card numbers
-You get numbers of each card on the card.
+You get numbers on the card. Uses trello's internal numbering also found on the URL and is searchable.
 
 ## Submitting changes
 
