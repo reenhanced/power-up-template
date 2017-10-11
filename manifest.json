@@ -8,7 +8,8 @@
   "author": "Reenhanced LLC",
   "capabilities": [
     "card-badges",
-    "card-detail-badges"
+    "card-detail-badges",
+    "show-settings"
   ],
   "connectors": {
     "iframe": {
