@@ -1,5 +1,7 @@
 /* global TrelloPowerUp */
 
+var Promise = TrelloPowerUp.Promise;
+
 var getIdBadge = function(t){
   return Promise.all([
     t.get('board', 'shared', 'prefix', '#'),
