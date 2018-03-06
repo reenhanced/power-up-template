@@ -7,10 +7,10 @@ var getIdBadge = function(t){
     t.get('board', 'shared', 'prefix', '#'),
     t.card('idShort').get('idShort')
   ])
-  .then(function([prefix, idShort]){
+  .then(function(result){
     return [{
       title: 'Card Number', // for detail badges only
-      text: prefix + idShort
+      text: result[0] + result[1]
     }];
   })
 };
